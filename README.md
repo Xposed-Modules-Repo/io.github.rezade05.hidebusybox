@@ -9,12 +9,12 @@
 
 # Busybox Detection Result
 
-| Screenshot                                                    | Description                                                        |
-| ------------------------------------------------------------- | ------------------------------------------------------------------ |
-| ![Before Hide 1](/screenshot/screenshot-before-root-beer.jpg) | **Before Hide** – [RootBeer](https://github.com/scottyab/rootbeer) |
-| ![Before Hide 2](./screenshot/screenshot-before-ruru.jpg)     | **Before Hide** – [Ruru](https://github.com/byxiaorun/Ruru)        |
-| ![After Hide 1](./screenshot/screenshot-after-root-beer.jpg)  | **After Hide** – [RootBeer](https://github.com/scottyab/rootbeer)  |
-| ![After Hide 2](./screenshot/screenshot-after-ruru.jpg)       | **After Hide** – [Ruru](https://github.com/byxiaorun/Ruru)         |
+| Screenshot                                                                                                                                            | Description                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| ![Before Hide 1](https://github.com/Xposed-Modules-Repo/io.github.rezade05.hidebusybox/blob/main/screenshot/screenshot-before-root-beer.jpg?raw=true) | **Before Hide** – [RootBeer](https://github.com/scottyab/rootbeer) |
+| ![Before Hide 2](https://github.com/Xposed-Modules-Repo/io.github.rezade05.hidebusybox/blob/main/screenshot/screenshot-before-ruru.jpg?raw=true)      | **Before Hide** – [Ruru](https://github.com/byxiaorun/Ruru)        |
+| ![After Hide 1](https://github.com/Xposed-Modules-Repo/io.github.rezade05.hidebusybox/blob/main/screenshot/screenshot-after-root-beer.jpg?raw=true)   | **After Hide** – [RootBeer](https://github.com/scottyab/rootbeer)  |
+| ![After Hide 2](https://github.com/Xposed-Modules-Repo/io.github.rezade05.hidebusybox/blob/main/screenshot/screenshot-after-ruru.jpg?raw=true)        | **After Hide** – [Ruru](https://github.com/byxiaorun/Ruru)         |
 
 </p>
 
